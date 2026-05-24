@@ -8,5 +8,5 @@ We benchmarked WQC-POLYS against standard solvers under extreme chaotic noise (s
 | Energy Loss | High | **0.00%** |
 | Latency | High Overhead | **< 5ns** |
 
-![WQC Energy Stability](assets/energy_graph.png)
+![WQC Energy Stability](https://github.com/vmojuga-pixel/WQC-POLYS/blob/main/IMG_20260524_123239.jpg)
 ![Field Stabilization](https://github.com/vmojuga-pixel/WQC-POLYS/blob/main/IMG_20260524_123220.jpg)
